@@ -14,7 +14,6 @@
 		48DBA72C21040B2D00731441 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48DBA72A21040B2D00731441 /* LaunchScreen.storyboard */; };
 		48DBA73721040B2E00731441 /* RxSwiftPrcticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DBA73621040B2E00731441 /* RxSwiftPrcticeTests.swift */; };
 		48DBA74221040B2E00731441 /* RxSwiftPrcticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DBA74121040B2E00731441 /* RxSwiftPrcticeUITests.swift */; };
-		48DBA75121040E2700731441 /* DayOne-1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DBA75021040E2700731441 /* DayOne-1.swift */; };
 		48E4D64921071A9C00A25254 /* DayOneController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E4D64821071A9C00A25254 /* DayOneController.swift */; };
 /* End PBXBuildFile section */
 
@@ -222,7 +221,6 @@
 		48DBA73D21040B2E00731441 /* RxSwiftPrcticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RxSwiftPrcticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		48DBA74121040B2E00731441 /* RxSwiftPrcticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RxSwiftPrcticeUITests.swift; sourceTree = "<group>"; };
 		48DBA74321040B2E00731441 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		48DBA75021040E2700731441 /* DayOne-1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DayOne-1.swift"; sourceTree = "<group>"; };
 		48E4D6002107195500A25254 /* Rx.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Rx.xcodeproj; path = Carthage/Checkouts/RxSwift/Rx.xcodeproj; sourceTree = "<group>"; };
 		48E4D64821071A9C00A25254 /* DayOneController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayOneController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -308,7 +306,6 @@
 		48DBA74F21040E0C00731441 /* DayOne */ = {
 			isa = PBXGroup;
 			children = (
-				48DBA75021040E2700731441 /* DayOne-1.swift */,
 				48E4D64821071A9C00A25254 /* DayOneController.swift */,
 			);
 			path = DayOne;
@@ -655,7 +652,6 @@
 			files = (
 				48DBA72421040B2D00731441 /* ViewController.swift in Sources */,
 				48E4D64921071A9C00A25254 /* DayOneController.swift in Sources */,
-				48DBA75121040E2700731441 /* DayOne-1.swift in Sources */,
 				48DBA72221040B2D00731441 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
