@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		48A7DED7210C60DA007E2415 /* DayTwoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A7DED6210C60DA007E2415 /* DayTwoController.swift */; };
+		48CA5A4221204F2A00547B29 /* DayThreeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48CA5A4121204F2A00547B29 /* DayThreeController.swift */; };
 		48DBA72221040B2D00731441 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DBA72121040B2D00731441 /* AppDelegate.swift */; };
 		48DBA72421040B2D00731441 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DBA72321040B2D00731441 /* ViewController.swift */; };
 		48DBA72721040B2D00731441 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48DBA72521040B2D00731441 /* Main.storyboard */; };
@@ -208,6 +210,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		48A7DED6210C60DA007E2415 /* DayTwoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwoController.swift; sourceTree = "<group>"; };
+		48CA5A4121204F2A00547B29 /* DayThreeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayThreeController.swift; sourceTree = "<group>"; };
 		48DBA71E21040B2D00731441 /* RxSwiftPrctice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxSwiftPrctice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48DBA72121040B2D00731441 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		48DBA72321040B2D00731441 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -307,6 +311,8 @@
 			isa = PBXGroup;
 			children = (
 				48E4D64821071A9C00A25254 /* DayOneController.swift */,
+				48A7DED6210C60DA007E2415 /* DayTwoController.swift */,
+				48CA5A4121204F2A00547B29 /* DayThreeController.swift */,
 			);
 			path = DayOne;
 			sourceTree = "<group>";
@@ -651,8 +657,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				48DBA72421040B2D00731441 /* ViewController.swift in Sources */,
+				48A7DED7210C60DA007E2415 /* DayTwoController.swift in Sources */,
 				48E4D64921071A9C00A25254 /* DayOneController.swift in Sources */,
 				48DBA72221040B2D00731441 /* AppDelegate.swift in Sources */,
+				48CA5A4221204F2A00547B29 /* DayThreeController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -78,9 +78,6 @@ class DayOneViewController: UIViewController {
             strongSelf.numberLabel.text = "0"
         })
         
-//        _ = Observable.create({ (<#AnyObserver<_>#>) -> Disposable in
-//            <#code#>
-//        })
     }
     
 }
